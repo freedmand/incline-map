@@ -1,0 +1,1 @@
+{ "dependencies": { "@turf/turf": "^6.5.0", "@watergis/mapbox-gl-elevation": "^1.0.5", "maplibre-gl": "^2.4.0" } }
