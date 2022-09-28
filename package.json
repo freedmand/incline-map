@@ -1,1 +1,12 @@
-{ "dependencies": { "@turf/turf": "^6.5.0", "@watergis/mapbox-gl-elevation": "^1.0.5", "maplibre-gl": "^2.4.0" } }
+{
+  "dependencies": {
+    "@turf/turf": "^6.5.0",
+    "@watergis/mapbox-gl-elevation": "^1.0.5",
+    "maplibre-gl": "^2.4.0",
+    "parcel": "^2.7.0"
+  },
+  "scripts": {
+    "dev": "parcel public/index.html --no-hmr",
+    "build": "parcel build public/index.html"
+  }
+}

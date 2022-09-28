@@ -1,6 +1,7 @@
-import maplibreFn from "maplibre-gl";
+import maplibre from "maplibre-gl";
 
-export const maplibre: typeof maplibreFn = (maplibreFn as any)();
+// export const maplibre: typeof maplibreFn = (maplibreFn as any)();
+// export const
 export const LngLat = maplibre.LngLat;
 
 export async function esriStyle() {
