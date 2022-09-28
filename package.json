@@ -2,7 +2,7 @@
   "dependencies": {
     "@turf/turf": "^6.5.0",
     "@watergis/mapbox-gl-elevation": "^1.0.5",
-    "maplibre-gl": "^2.4.0",
+    "maplibre-gl": "^3.0.0-pre.0",
     "parcel": "^2.7.0"
   },
   "scripts": {
